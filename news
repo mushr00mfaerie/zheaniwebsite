@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    
+	<link rel="stylesheet" href="css/style.css">
+
+    <title> News - Zheani Fan Site </title>
+
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: right;
+  
+  }
+
+div.c {
+  text-align: center;
+}
+
+div.d {
+  text-align: center;
+}
+
+</style>
+</head>
+
+  <body>
+<div class="a">
+<header>News</header>
+<p><img src="images/zheanisigil.gif" alt="Zheani Sigil" style="width:190px;height:150px;"></p>
+</div>
+
+
+<div class="b">
+ <nav>
+
+ <a href="index.html"> <button> HOME </button></a>  |
+	 <a href="music.html"> <button> MUSIC </button></a>  |
+	 <a href="news.html"> <button> NEWS </button></a> 
+ 
+ 
+</nav> 
+<p> 
+</div>
+
+<div class="c">
+<p>
+<br>
+	 Zheani has recently completed her first U.S. Tour and gearing up to come back already with her self-funded WORLD TOUR! She may not return to smaller U.S. OR E.U. cities, dont miss your chance to see this incredible show!
+	<p style="color:#ff1a1a;"> Click the flyer to get your tickets to The Maenad World tour now!  </p>
+<br> <a href="http://www.zheani.com" target="_blank">
+  <img width="450px;" height="600px;" border="0" align="center"  src="images/mwt.jpg" alt="Tour poster"/>
+</a>
+
+
+			<br> <br>
+		<p> 
+		The New Babylon Tour had a successful run with 8 sold out venues!
+<br> <p> <img src="images/nbt.jpg" alt="Tour poster 2" style="width:450px;height:600px;">
+</div>
+
+
+<div class="d">
+<br> <p> <p> <p>		
+<footer>© Devana Sherrod | 2024 </footer>
+<p> 
+</div>
+          
+		
+
+
+  </body>
+
+</html>
