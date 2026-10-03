@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    
+	<link rel="stylesheet" href="css/style.css">
+
+    <title> Home - Zheani Fan Site </title>
+
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: right;
+  
+  }
+
+div.c {
+  text-align: center;
+}
+
+div.d {
+  text-align: center;
+}
+
+</style>
+</head>
+
+  <body>
+<div class="a">
+<header id="myHeader">Zheani</header>
+<p><img src="images/zheanisigil.gif" alt="Zheani Sigil" style="width:190px;height:150px;"></p>
+</div>
+
+
+<div class="b">
+ <nav>
+
+	 <a href="index.html"> <button> HOME </button></a>  |
+	 <a href="music.html"> <button> MUSIC </button></a>  |
+	 <a href="news.html"> <button> NEWS </button></a> 
+ 
+</nav> 
+
+</div>
+
+<div class="c">
+
+<br> <img src="images/zheani3.jpg" alt="Zheani Photo" style="width:450px;height:600px;">
+
+</div>
+
+
+<div class="d">
+<p> 
+Hot Spot for everything you need to know about Australia's own Fairy Trap/Hyperpop musical artist Zheani!
+</p> 
+</div>
+          
+<br> <p> <p> <p>		
+<footer>© Devana Sherrod | 2024 </footer>
+
+  </body>
+
+</html>
