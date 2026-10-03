@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    
+	<link rel="stylesheet" href="css/style.css">
+	
+
+    <title> Music - Zheani Fan Site </title>
+
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: right;
+  
+  }
+
+div.c {
+  text-align: center;
+}
+
+div.d {
+  text-align: center;
+}
+
+</style>
+</head>
+
+  <body>
+<div class="a">
+<header>Music</header>
+<p><img src="images/zheanisigil.gif" alt="Zheani Sigil" style="width:190px;height:150px;"></p>
+</div>
+
+
+<div class="b">
+ <nav>
+
+	 <a href="index.html"> <button> HOME </button></a>  |
+	 <a href="music.html"> <button> MUSIC </button></a>  |
+	 <a href="news.html"> <button> NEWS </button></a> 
+ 
+ 
+</nav> 
+<p> 
+</div>
+
+<div class="c">
+
+<div class="album">
+  <h5> Latest Release • Single • Spoils of War </h5>
+  <p>  Release Date: March 15th, 2024 </p>
+</div>
+	<br> <p> 
+	<img src="images/sow.jpg" alt="Cover Photo" style="width:100px;height:100px;">
+	 <br> 1. Spoils of War (ft. The Buttress)
+	<p>
+	<br>
+<div class="album">	
+	<h5> Album • The Spiritual Meat Grinder </h5>
+	<p>  Realease Date: August 25th, 2023'
+	</div>
+	<br> <p>
+	<img src="images/tsmg.jpg" alt="Cover Photo 2" style="width:100px;height:100px;">
+	<br> 1. FML 
+	<br> 2. BWC 
+	<br> 3. TOUCH GRASS 
+	<br> 4. HAMMERHEAD 
+	<br> 5. THAT'S HOT! 
+	<br> 6. I'M AN ANGEL WHY AM I ON MY KNEES
+	<br> 7. GROWING PAINS
+	<br> 8. PATHETIC WASTE
+	<br> 9. I SMELL GOOD
+	<p>
+	<br>
+	<div class="album">
+	<h5>  Album • I Hate People On The Internet </h5>
+	<p>  Release Date: March 22nd, 2022
+	</div>
+	<br> <p>
+	<img src="images/ihpoti.jpg" alt="Cover Photo 2" style="width:100px;height:100px;">
+	<br>1. Napalm 
+	<br> 2. Designer Sadness
+	<br> 3. Tarantulas 
+	<br> 4. You Saw 
+	<br> 5. F*** The Hollwood Cult 
+	<br> 6. Skin Walker
+	<br> 7. We're All Going To Die
+	<p>
+	<br> 
+</div>
+
+
+<div class="d">
+<br> <p> <p> <p>		
+<footer>© Devana Sherrod | 2024 </footer>
+<p> 
+</div>
+          
+		
+
+
+  </body>
+
+</html>
